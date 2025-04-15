@@ -1,6 +1,8 @@
 {
   "name": "assingment2-vehicle-managment",
   "version": "0.1.0",
+  "author": "Teemu Tupola",
+  "description": "A simple vehicle management system built with React, School project",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
